@@ -1,0 +1,21 @@
+/* main page*/
+/*----------------------------------------------------*/
+.title{
+    background-color: red;
+    text-align: center;
+    
+}
+
+.item-1,
+.item-2
+{
+    font-size: 20px ;
+}
+
+/*lasagna*/
+ /*----------------------------------------------------*/
+
+img{
+    display: block;
+    margin:auto;
+}
