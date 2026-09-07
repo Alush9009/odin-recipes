@@ -1,1 +1,2 @@
 # odin-recipes
+this is my recipes website . i an building a website with all the knowledge that i aquired from the odin project sofar . i will definitly change this readme.md file once i am done with the project to self reflect on the things that i have learnd .
